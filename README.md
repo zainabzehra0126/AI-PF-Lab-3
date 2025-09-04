@@ -3,7 +3,7 @@
 ### Heading 3
 
 **This is bold teaxt**
-<br/
+<br/>
 
 _This is for Italic_
 <br/>
